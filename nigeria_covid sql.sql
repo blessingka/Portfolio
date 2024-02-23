@@ -1,0 +1,1 @@
+SELECT * FROM nigeria.people_vaccination;
